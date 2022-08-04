@@ -8,5 +8,6 @@ public class test01 {
         System.out.println("master test");
         System.out.println("hit-fix test");
         System.out.println("push test");
+        System.out.println("ssh push test");
     }
 }
